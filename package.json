@@ -1,0 +1,17 @@
+{
+  "name": "javascriptwithfleet",
+  "version": "1.0.0",
+  "description": "Just testing JetBrains Fleet :)",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "author": "Washington Araújo Ramos",
+  "license": "MIT"
+}
